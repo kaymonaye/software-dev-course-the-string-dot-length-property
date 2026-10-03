@@ -24,7 +24,12 @@ let lengthOne;   // Length of stringOne
 let lengthTwo;   // Length of stringTwo
 let lengthThree; // Length of stringThree
 
-// Your code here
+// Your code let lengthOne = stringOne.length;   // Length of stringOne
+let lengthOne = stringOne.length;   // Length of stringOne
+let lengthTwo = stringTwo.length;   // Length of stringTwo
+let lengthThree = stringThree.length; // Length of stringThree
+
+
 
 
 
